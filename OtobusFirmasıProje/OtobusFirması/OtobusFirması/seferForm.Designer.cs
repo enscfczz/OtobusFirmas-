@@ -222,7 +222,7 @@ namespace OtobusFirması
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(280, 31);
             this.comboBox1.TabIndex = 77;
-            this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
+          
             // 
             // comboBox2
             // 
@@ -278,7 +278,7 @@ namespace OtobusFirması
             this.comboBox6.Name = "comboBox6";
             this.comboBox6.Size = new System.Drawing.Size(280, 31);
             this.comboBox6.TabIndex = 84;
-            this.comboBox6.SelectedIndexChanged += new System.EventHandler(this.comboBox6_SelectedIndexChanged);
+         
             // 
             // label1
             // 
